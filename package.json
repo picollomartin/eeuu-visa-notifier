@@ -1,0 +1,15 @@
+{
+  "name": "eeuu-visa-notifier",
+  "version": "1.0.0",
+  "description": "Script for check eeuu visa and notify through telegram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.58.0",
+    "puppeteer": "^15.3.1"
+  }
+}
