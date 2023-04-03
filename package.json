@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "luxon": "^3.0.1",
     "node-telegram-bot-api": "^0.58.0",
     "puppeteer": "^15.3.1"
   }
